@@ -1,0 +1,5 @@
+*.pdf
+
+*/*.pdf
+*.png 
+# for png file
